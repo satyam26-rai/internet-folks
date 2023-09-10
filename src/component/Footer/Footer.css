@@ -1,0 +1,44 @@
+.Footer{
+    
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:   rgb(221, 221, 221);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    line-height: 1.6;
+}
+.Footer h3{
+     
+    color: rgb(7, 7, 100);
+}
+.Footer-1{
+    flex: 1;
+}
+.Footer-1 img{
+    height:5rem;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    
+}
+.Footer-2{
+    flex: 1;
+}
+.Footer-3{
+    flex: 1;
+}
+.Footer-4{
+    flex: 1;
+     
+}
+.footer-list{
+    list-style-type:none;
+    margin-left: -2rem;
+    line-height: 3;
+}
+.icons{
+    display: flex;
+     
+}
+.icons div{
+    margin: 10px;
+}

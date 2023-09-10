@@ -1,0 +1,37 @@
+.Third{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5rem;
+}
+h3{
+    color: rgb(7, 7, 100);
+
+}
+.Dish-heading{
+    color: rgb(7, 7, 100);
+    font-size: 3rem;
+    font-weight: bold;
+}
+.Dish-container{
+    display: flex;
+    justify-content: space-around;  
+}
+.Dish{
+    border: 1px solid rgb(180, 176, 176);
+    border-radius: 1rem;
+    padding: 2rem; 
+    margin: 1rem;  
+}
+.IMG{
+    height: 18rem;
+}
+ .Dish p{
+    margin-left: 0%;
+ }
+ .Arrow{
+    display: flex;
+    justify-content: center;
+    
+ }
+ .Arrow a{
+    margin: 1rem;
+ }
